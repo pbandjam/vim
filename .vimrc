@@ -23,6 +23,7 @@ set background=dark
 
 set hlsearch
 nnoremap <leader><space> :noh<cr>
+nnoremap ; :
 
 inoremap {<CR>  {<CR>}<Esc>O<tab>
 inoremap (  (<Space>)<Left>
